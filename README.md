@@ -1,6 +1,6 @@
 barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
 
-[![Codacy Badge](https://app.codacy.com/legacy/versioned/images/codacy-red.svg)](https://app.codacy.com/legacy/versioned/images/codacy-red.svg)
+[![Codacy Badge](https://app.codacy.com/legacy/versioned/images/codacy-white.svg)](https://app.codacy.com/legacy/versioned/images/codacy-white.svg)
 
 
 ## About
